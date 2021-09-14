@@ -1,0 +1,4 @@
+-Hola mi nombre Fabián Abel Sajama, soy desarrollador jr.
+-Estoy interesado en el mundo de la programación.
+-Me gustaria poder colaborar en proyectos relacionados al desarrollo de sistemas informáticos
+-Contacto-> sajama230@gmail.com
